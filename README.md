@@ -5,7 +5,7 @@ My alternative Casks.
 ## Usage
 
 ```
-brew tap aereal/homebrew-aereal_casks
+brew tap upamune/homebrew-aereal_casks
 ```
 
 ## See Also
